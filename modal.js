@@ -2,11 +2,11 @@ $(document).ready(function(){
   
   $(".link").click(function(){
     
-    $(".modal").show();
+    $(".modalwindow").show();
       
-      $(".modal").click(function(){
+      $(".modalwindow").click(function(){
         
-        $(".modal").hide();
+        $(".modalwindow").hide();
     
     });
   
