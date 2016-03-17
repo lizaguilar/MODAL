@@ -1,0 +1,33 @@
+
+.link {
+  position: relative;
+  margin-left: 300px;
+  margin-top: 400px;
+  font-size: 70px;
+
+}
+
+.modal {
+  position: absolute;
+  display: none;
+}
+
+p {
+  margin: 0 auto;
+}
+
+.modalwindow {
+  position: relative;
+  margin-left: 370px;
+  margin-top: 200px;
+  margin-bottom: 200px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  text-align: center;
+  border: solid black;
+  width: 250px;
+  background-color: pink;
+  opacity: 0.5;
+}
